@@ -1,6 +1,7 @@
-# lwzSTAFFMOD | by lwz#2051
+# lwzSTAFFMOD
+RageUI Staffmod, by lwz#2051
 
-Je ne vous conseille plus vraiment de l'utiliser, faites des modifications dessus, il est fonctionnel et plug & play.
+Je ne vous conseil plus vraiment de l'utiliser, faites des modifications dessus, il est fonctionnel et plug & play.
 MAIS, les triggers ne sont pas réellement sécurisés et tout le monde peut les utiliser : notamment avec le Eulen qui permet de trouver les trigger.
 
 Thanks:
